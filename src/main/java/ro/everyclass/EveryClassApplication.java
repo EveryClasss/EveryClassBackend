@@ -1,4 +1,4 @@
-package ro.everyclass.EveryClass;
+package ro.everyclass;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
